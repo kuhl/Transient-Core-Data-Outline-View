@@ -1,0 +1,5 @@
+TransientCoreDataTree
+
+This project shows how to set up and evaluate transient relationships.  The interface shows how to use an NSOutlineView as well
+as the interaction between an NSTreeController with two different NSArrayControllers.  The first NSArrayController represents a
+flat representation of all the objects, while the other is used for the parent picker popup cell in the outline view.
